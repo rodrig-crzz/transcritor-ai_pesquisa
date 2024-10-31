@@ -1,0 +1,42 @@
+fixed_input_height: 128
+save_model: true
+syms: transcritores/ANTONIO_ALEXADRINO_ALENCAR/simbolos.txt
+adaptive_pooling: avgpool-16
+common:
+  model_filename: transcritores/ANTONIO_ALEXADRINO_ALENCAR/modelo_h80
+crnn:
+  cnn_activation:
+  - LeakyReLU
+  - LeakyReLU
+  - LeakyReLU
+  - LeakyReLU
+  cnn_batchnorm:
+  - true
+  - true
+  - true
+  - true
+  cnn_dilation:
+  - 1
+  - 1
+  - 1
+  - 1
+  cnn_kernel_size:
+  - 3
+  - 3
+  - 3
+  - 3
+  cnn_num_features:
+  - 12
+  - 24
+  - 48
+  - 48
+  cnn_poolsize:
+  - 2
+  - 2
+  - 0
+  - 2
+  lin_dropout: 0.5
+  rnn_dropout: 0.5
+  rnn_layers: 3
+  rnn_type: LSTM
+  rnn_units: 256
