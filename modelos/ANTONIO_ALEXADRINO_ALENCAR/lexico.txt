@@ -1,0 +1,785 @@
+<ctc> <ctc>
+<space> <space>
+. .
+, , 
+A A
+Ab A b
+Abdon A b d o n
+Abedor A b e d o r
+Abel A b e l
+Abidisio A b i d i s i o
+Abril A b r i l
+Abrão A b r ã o
+Adelaide A d e l a i d e
+Adelia A d e l i a
+Adelina A d e l i n a
+Agoapé A g o a p é
+Agos A g o s
+Agostinha A g o s t i n h a
+Agostinho A g o s t i n h o
+Agosto A g o s t o
+Aguiar A g u i a r
+Al A l
+Alcantara A l c a n t a r a
+Ale A l e
+Alecrides A l e c r i d e s
+Aleixo A l e i x o
+Alen A l e n
+Alencar A l e n c a r
+Alexandre A l e x a n d r e
+Alexandrina A l e x a n d r i n a
+Alexandrinia A l e x a n d r i n i a
+Alexandrino A l e x a n d r i n o
+Alfredo A l f r e d o
+Almeida A l m e i d a
+Alvaro A l v a r o
+Alves A l v e s
+Alvinno A l v i n n o
+Ama A m a
+Amelia A m e l i a
+Amor A m o r
+Amorim A m o r i m
+An A n
+Ana A n a
+Anavaes A n a v a e s
+Andrelina A n d r e l i n a
+André A n d r é
+Angela A n g e l a
+Angelica A n g e l i c a
+Angélica A n g é l i c a
+Anjos A n j o s
+Anna A n n a
+Antonia A n t o n i a
+Antonio A n t o n i o
+Antônia A n t ô n i a
+Antônio A n t ô n i o
+Ao A o
+Aos A o s
+Aragão A r a g ã o
+Ararias A r a r i a s
+Araujo A r a u j o
+Araújo A r a ú j o
+Arcina A r c i n a
+Arimateia A r i m a t e i a
+Arrais A r r a i s
+Arteliano A r t e l i a n o
+Augusta A u g u s t a
+Augusto A u g u s t o
+Aurora A u r o r a
+Avelim A v e l i m
+Avelina A v e l i n a
+Avelino A v e l i n o
+Bandeira B a n d e i r a
+Baptista B a p t i s t a
+Barbosa B a r b o s a
+Barboza B a r b o z a
+Barros B a r r o s
+Beathris B e a t h r i s
+Belles B e l l e s
+Bellira B e l l i r a
+Bellisarina B e l l i s a r i n a
+Belmira B e l m i r a
+Belmiro B e l m i r o
+Bemvinda B e m v i n d a
+Benedito B e n e d i t o
+Benigna B e n i g n a
+Benta B e n t a
+Bento B e n t o
+Bernardina B e r n a r d i n a
+Bernardino B e r n a r d i n o
+Bernardo B e r n a r d o
+Bertholdo B e r t h o l d o
+Beserra B e s e r r a
+Besilla B e s i l l a
+Bezerra B e z e r r a
+Bispo B i s p o
+Blandina B l a n d i n a
+Bonfim B o n f i m
+Braga B r a g a
+Brasil B r a s i l
+Brasilina B r a s i l i n a
+Brigida B r i g i d a
+Brito B r i t o
+Cabral C a b r a l
+Calmon C a l m o n
+Camila C a m i l a
+Camilla C a m i l l a
+Camillo C a m i l l o
+Campos C a m p o s
+Candeia C a n d e i a
+Candida C a n d i d a
+Candido C a n d i d o
+Car C a r
+Carina C a r i n a
+Carlos C a r l o s
+Carmo C a r m o
+Carolina C a r o l i n a
+Carolino C a r o l i n o
+Carvalho C a r v a l h o
+Cassula C a s s u l a
+Castro C a s t r o
+Cavalcante C a v a l c a n t e
+Cea C e a
+Ceará C e a r á
+Cecilia C e c i l i a
+Celestina C e l e s t i n a
+Celestino C e l e s t i n o
+Cesário C e s á r i o
+Chagas C h a g a s
+Chaves C h a v e s
+Chrispim C h r i s p i m
+Cicera C i c e r a
+Cicero C i c e r o
+Cidade C i d a d e
+Cipriano C i p r i a n o
+Ciriaca C i r i a c a
+Clara C l a r a
+Claudina C l a u d i n a
+Clementino C l e m e n t i n o
+Coimbra C o i m b r a
+Collares C o l l a r e s
+Collario C o l l a r i o
+Con C o n
+Concei C o n c e i
+Conceição C o n c e i ç ã o
+Conceção C o n c e ç ã o
+Conrado C o n r a d o
+Cordeiro C o r d e i r o
+Cordolina C o r d o l i n a
+Cornelia C o r n e l i a
+Correia C o r r e i a
+Cosme C o s m e
+Costa C o s t a
+Coêlho C o ê l h o
+Cra C r a
+Crato C r a t o
+Crus C r u s
+Cruz C r u z
+Cunha C u n h a
+Custódia C u s t ó d i a
+Custódio C u s t ó d i o
+Damaceno D a m a c e n o
+Damasceno D a m a s c e n o
+Damião D a m i ã o
+David D a v i d
+Delfina D e l f i n a
+Deoclecio D e o c l e c i o
+Deus D e u s
+Dezem D e z e m
+Dezembro D e z e m b r o
+Di D i
+Dias D i a s
+Diogenes D i o g e n e s
+Diognes D i o g n e s
+Diomédes D i o m é d e s
+Dionizio D i o n i z i o
+Dir D i r
+Dirceu D i r c e u
+Diva D i v a
+Divino D i v i n o
+Dores D o r e s
+Dourado D o u r a d o
+Duarte D u a r t e
+Eli E l i
+Elias E l i a s
+Elvira E l v i r a
+Emilia E m i l i a
+Enéias E n é i a s
+Ephiphanio E p h i p h a n i o
+Es E s
+Esmerada E s m e r a d a
+Esmeralda E s m e r a l d a
+Esmeraldo E s m e r a l d o
+Espiri E s p i r i
+Espirito E s p i r i t o
+Espírito E s p í r i t o
+Est E s t
+Esta E s t a
+Estad E s t a d
+Estado E s t a d o
+Esther E s t h e r
+Eu E u
+Euclides E u c l i d e s
+Eufrasio E u f r a s i o
+Evangelista E v a n g e l i s t a
+Faustina F a u s t i n a
+Feitosa F e i t o s a
+Feitoza F e i t o z a
+Fel F e l
+Felic F e l i c
+Felicia F e l i c i a
+Feliciana F e l i c i a n a
+Felicidade F e l i c i d a d e
+Felippe F e l i p p e
+Felismina F e l i s m i n a
+Felix F e l i x
+Felizardo F e l i z a r d o
+Fellipe F e l l i p e
+Fernandes F e r n a n d e s
+Ferreira F e r r e i r a
+Fevereiro F e v e r e i r o
+Fi F i
+Fibronila F i b r o n i l a
+Fidélles F i d é l l e s
+Figueirêdo F i g u e i r ê d o
+Figueredo F i g u e r e d o
+Figuerêdo F i g u e r ê d o
+Filgueira F i l g u e i r a
+Firmina F i r m i n a
+Florencia F l o r e n c i a
+Florentina F l o r e n t i n a
+Florentino F l o r e n t i n o
+Florenço F l o r e n ç o
+Florinda F l o r i n d a
+Florência F l o r ê n c i a
+Fo F o
+Forão F o r ã o
+Frachilino F r a c h i l i n o
+Fran F r a n
+Franca F r a n c a
+Francelina F r a n c e l i n a
+Francis F r a n c i s
+Francisca F r a n c i s c a
+Francisco F r a n c i s c o
+Franciso F r a n c i s o
+França F r a n ç a
+Frazão F r a z ã o
+Fração F r a ç ã o
+Frederico F r e d e r i c o
+Freire F r e i r e
+Freitas F r e i t a s
+Froctuozo F r o c t u o z o
+Félix F é l i x
+Garcia G a r c i a
+Generosa G e n e r o s a
+Geraldo G e r a l d o
+Germana G e r m a n a
+Glo G l o
+Gomes G o m e s
+Gon G o n
+Gonçal G o n ç a l
+Gonçalves G o n ç a l v e s
+Hagapesto H a g a p e s t o
+Her H e r
+Hermina H e r m i n a
+Hono H o n o
+Honorio H o n o r i o
+Ignácia I g n á c i a
+Inác I n á c
+Inácio I n á c i o
+Isa I s a
+Isabel I s a b e l
+Isaura I s a u r a
+Isidro I s i d r o
+Ivo I v o
+Jacca J a c c a
+Jacintho J a c i n t h o
+Jacintto J a c i n t t o
+Janei J a n e i
+Januaria J a n u a r i a
+Januario J a n u a r i o
+Jardelina J a r d e l i n a
+Je J e
+Jeronima J e r o n i m a
+Jeronimo J e r o n i m o
+Jesuina J e s u i n a
+Jesus J e s u s
+Jo J o
+Joa J o a
+Joan J o a n
+Joana J o a n a
+Joanna J o a n n a
+Joaquim J o a q u i m
+Joaquina J o a q u i n a
+Jolvina J o l v i n a
+Jolvino J o l v i n o
+Jonna J o n n a
+Jordão J o r d ã o
+Jorge J o r g e
+Josepha J o s e p h a
+José J o s é
+Jovita J o v i t a
+João J o ã o
+Ju J u
+Juaseiro J u a s e i r o
+Julho J u l h o
+Julia J u l i a
+Julio J u l i o
+Junho J u n h o
+Junior J u n i o r
+Jurumenha J u r u m e n h a
+Justina J u s t i n a
+Jócca J ó c c a
+Lameiro L a m e i r o
+Landin L a n d i n
+Laurinda L a u r i n d a
+Lavinia L a v i n i a
+Leandro L e a n d r o
+Leite L e i t e
+Leonarda L e o n a r d a
+Leoncio L e o n c i o
+Leonel L e o n e l
+Leonidas L e o n i d a s
+Leonides L e o n i d e s
+Leopoldina L e o p o l d i n a
+Leopoldino L e o p o l d i n o
+Leão L e ã o
+Liberalina L i b e r a l i n a
+Lima L i m a
+Linda L i n d a
+Linhares L i n h a r e s
+Lino L i n o
+Lobo L o b o
+Lopes L o p e s
+Luccas L u c c a s
+Lucena L u c e n a
+Luis L u i s
+Luisa L u i s a
+Luiza L u i z a
+Lus L u s
+Luteria L u t e r i a
+Luzia L u z i a
+Lús L ú s
+M M
+Ma M a
+Machado M a c h a d o
+Macêdo M a c ê d o
+Madeiro M a d e i r o
+Magaria M a g a r i a
+Magdalena M a g d a l e n a
+Maia M a i a
+Maio M a i o
+Manoel M a n o e l
+Manoela M a n o e l a
+Manoella M a n o e l l a
+Marcella M a r c e l l a
+Marco M a r c o
+Marcolina M a r c o l i n a
+Marcos M a r c o s
+Margarida M a r g a r i d a
+Maria M a r i a
+Mariana M a r i a n a
+Mariano M a r i a n o
+Marinho M a r i n h o
+Marques M a r q u e s
+Marrócos M a r r ó c o s
+Martins M a r t i n s
+Março M a r ç o
+Mascarenha M a s c a r e n h a
+Matheus M a t h e u s
+Mathias M a t h i a s
+Mathildes M a t h i l d e s
+Matos M a t o s
+Matriz M a t r i z
+Matta M a t t a
+Mattos M a t t o s
+Meireles M e i r e l e s
+Mello M e l l o
+Melo M e l o
+Mendes M e n d e s
+Meneses M e n e s e s
+Menêses M e n ê s e s
+Mergulhão M e r g u l h ã o
+Miguel M i g u e l
+Milfont M i l f o n t
+Minervina M i n e r v i n a
+Monte M o n t e
+Monteiro M o n t e i r o
+Morais M o r a i s
+Morato M o r a t o
+Moreira M o r e i r a
+Moura M o u r a
+Munis M u n i s
+Nasario N a s a r i o
+Nasci N a s c i
+Nascimento N a s c i m e n t o
+Nathividade N a t h i v i d a d e
+Natividade N a t i v i d a d e
+Nelson N e l s o n
+Neother N e o t h e r
+Neves N e v e s
+No N o
+Nobrega N o b r e g a
+Nossa N o s s a
+Novembro N o v e m b r o
+Noventa N o v e n t a
+Nunes N u n e s
+O O
+Olga O l g a
+Oli O l i
+Olimpio O l i m p i o
+Olina O l i n a
+Oliveira O l i v e i r a
+Olvidio O l v i d i o
+Ottom O t t o m
+Ottone O t t o n e
+Ozana O z a n a
+Papeperniana P a p e p e r n i a n a
+Para P a r a
+Paschoa P a s c h o a
+Pastora P a s t o r a
+Pau P a u
+Pauferro P a u f e r r o
+Paula P a u l a
+Pauli P a u l i
+Paulino P a u l i n o
+Paulo P a u l o
+Paz P a z
+Pedrina P e d r i n a
+Pedro P e d r o
+Pedrosa P e d r o s a
+Peixoto P e i x o t o
+Peixôto P e i x ô t o
+Penha P e n h a
+Pequeno P e q u e n o
+Pereira P e r e i r a
+Pessoa P e s s o a
+Petronila P e t r o n i l a
+Pimentel P i m e n t e l
+Pinheiro P i n h e i r o
+Pinho P i n h o
+Pires P i r e s
+Pita P i t a
+Porsina P o r s i n a
+Prachedes P r a c h e d e s
+Primitiva P r i m i t i v a
+Queiroz Q u e i r o z
+Quimbra Q u i m b r a
+Quintal Q u i n t a l
+Quiteria Q u i t e r i a
+Raimundo R a i m u n d o
+Ranulpho R a n u l p h o
+Raphael R a p h a e l
+Raquel R a q u e l
+Ray R a y
+Raymunda R a y m u n d a
+Raymundo R a y m u n d o
+Rego R e g o
+Reinaldo R e i n a l d o
+Reverendo R e v e r e n d o
+Ribeiro R i b e i r o
+Rita R i t a
+Ro R o
+Rocha R o c h a
+Rodrigues R o d r i g u e s
+Roldão R o l d ã o
+Rolim R o l i m
+Romana R o m a n a
+Romeiro R o m e i r o
+Romão R o m ã o
+Roque R o q u e
+Rosa R o s a
+Rosalina R o s a l i n a
+Rosario R o s a r i o
+Roseno R o s e n o
+Rymunda R y m u n d a
+Sa S a
+Sabino S a b i n o
+Sacramento S a c r a m e n t o
+Saldanha S a l d a n h a
+Salviano S a l v i a n o
+Sampaio S a m p a i o
+Sant'ana S a n t ' a n a
+Santana S a n t a n a
+Santiago S a n t i a g o
+Santo S a n t o
+Santos S a n t o s
+Sarai S a r a i
+Saraiva S a r a i v a
+Saturnina S a t u r n i n a
+Sebastia S e b a s t i a
+Sebastiana S e b a s t i a n a
+Sebastião S e b a s t i ã o
+Secundina S e c u n d i n a
+Selina S e l i n a
+Senhora S e n h o r a
+Severino S e v e r i n o
+Siebra S i e b r a
+Silva S i l v a
+Silvestre S i l v e s t r e
+Simplicio S i m p l i c i o
+Simão S i m ã o
+Sipriano S i p r i a n o
+Sobreira S o b r e i r a
+Soledade S o l e d a d e
+Sother S o t h e r
+Sousa S o u s a
+Souza S o u z a
+Suares S u a r e s
+Sá S á
+Tavares T a v a r e s
+Teixeira T e i x e i r a
+Telles T e l l e s
+Teves T e v e s
+Theodomiro T h e o d o m i r o
+Theodora T h e o d o r a
+Theodoro T h e o d o r o
+Theophila T h e o p h i l a
+Theresa T h e r e s a
+Thereza T h e r e z a
+Thomasia T h o m a s i a
+Thomás T h o m á s
+Tomaz T o m a z
+Torres T o r r e s
+Trajano T r a j a n o
+Téclula T é c l u l a
+Umbelina U m b e l i n a
+Urçulina U r ç u l i n a
+Valerio V a l e r i o
+Vallares V a l l a r e s
+Valle V a l l e
+Vareliano V a r e l i a n o
+Venancio V e n a n c i o
+Viana V i a n a
+Vicencia V i c e n c i a
+Vicente V i c e n t e
+Victalino V i c t a l i n o
+Victor V i c t o r
+Victorino V i c t o r i n o
+Vicência V i c ê n c i a
+Viei V i e i
+Vieira V i e i r a
+Vigario V i g a r i o
+Villar V i l l a r
+Virginia V i r g i n i a
+Vitorina V i t o r i n a
+Viveiros V i v e i r o s
+Vêrde V ê r d e
+Xavelina X a v e l i n a
+a a
+aasento a a s e n t o
+ais a i s
+an a n
+anno a n n o
+ano a n o
+ao a o
+aos a o s
+aparvula a p a r v u l a
+as a s
+assento a s s e n t o
+assigno a s s i g n o
+ba b a
+baptisei b a p t i s e i
+baptisou b a p t i s o u
+baptizada b a p t i z a d a
+batisei b a t i s e i
+batisi b a t i s i
+bel b e l
+ber b e r
+bril b r i l
+bro b r o
+ca c a
+capela c a p e l a
+car c a r
+casada c a s a d a
+casado c a s a d o
+casados c a s a d o s
+ceis c e i s
+ceição c e i ç ã o
+centos c e n t o s
+cico c i c o
+cida c i d a
+cido c i d o
+cinco c i n c o
+cisco c i s c o
+co c o
+conhe c o n h e
+conheço c o n h e ç o
+constar c o n s t a r
+cêu c ê u
+d d
+d'Olanda d ' O l a n d a
+d'Oliveira d ' O l i v e i r a
+da d a
+das d a s
+de d e
+deis d e i s
+des d e s
+desceis d e s c e i s
+dese d e s e
+deseceis d e s e c e i s
+desecete d e s e c e t e
+desenove d e s e n o v e
+desesete d e s e s e t e
+desoi d e s o i
+desoito d e s o i t o
+desta d e s t a
+deze d e z e
+dezecete d e z e c e t e
+digo d i g o
+do d o
+dois d o i s
+domesmo d o m e s m o
+dos d o s
+dose d o s e
+dous d o u s
+drinhos d r i n h o s
+dôse d ô s e
+e e
+ele e l e
+elegitimo e l e g i t i m o
+ella e l l a
+elle e l l e
+esse e s s e
+este e s t e
+farvula f a r v u l a
+fazer f a z e r
+filha f i l h a
+filho f i l h o
+flha f l h a
+flho f l h o
+fliha f l i h a
+frasio f r a s i o
+fre f r e
+fregue f r e g u e
+freguesia f r e g u e s i a
+freguesiado f r e g u e s i a d o
+gueirêdo g u e i r ê d o
+guesia g u e s i a
+illegitima i l l e g i t i m a
+illegitimo i l l e g i t i m o
+io i o
+janeiro j a n e i r o
+julho j u l h o
+junho j u n h o
+la l a
+legiti l e g i t i
+legitima l e g i t i m a
+legitimo l e g i t i m o
+libella l i b e l l a
+lino l i n o
+los l o s
+ma m a
+maio m a i o
+mandei m a n d e i
+matriz m a t r i z
+mento m e n t o
+menêses m e n ê s e s
+mes m e s
+mesmo m e s m o
+mil m i l
+mina m i n a
+mo m o
+moradora m o r a d o r a
+moradore m o r a d o r e
+moradores m o r a d o r e s
+mordores m o r d o r e s
+mundo m u n d o
+mês m ê s
+na n a
+nacida n a c i d a
+nas n a s
+nasceu n a s c e u
+nasci n a s c i
+nascid n a s c i d
+nascida n a s c i d a
+nascido n a s c i d o
+nascidos n a s c i d o s
+nascisa n a s c i s a
+nascuda n a s c u d a
+natu n a t u
+naturais n a t u r a i s
+natural n a t u r a l
+nesta n e s t a
+nheço n h e ç o
+nho n h o
+nhos n h o s
+nhêço n h ê ç o
+no n o
+noel n o e l
+noo n o o
+nove n o v e
+noventa n o v e n t a
+nsta n s t a
+o o
+oa o a
+oi o i
+oito o i t o
+oitocentos o i t o c e n t o s
+onse o n s e
+os o s
+pa p a
+padri p a d r i
+padrinhos p a d r i n h o s
+parvula p a r v u l a
+parvulla p a r v u l l a
+parvulo p a r v u l o
+pe p e
+pelos p e l o s
+primeiro p r i m e i r o
+prios p r i o s
+pro p r o
+propios p r o p i o s
+propri p r o p r i
+proprios p r o p r i o s
+prorpios p r o r p i o s
+q q
+qu q u
+qua q u a
+quais q u a i s
+quasis q u a s i s
+quator q u a t o r
+quatorse q u a t o r s e
+quatro q u a t r o
+que q u e
+quim q u i m
+quin q u i n
+quinse q u i n s e
+qyais q y a i s
+ra r a
+rais r a i s
+ral r a l
+ria r i a
+rio r i o
+ro r o
+rá r á
+rão r ã o
+sa s a
+se s e
+seceis s e c e i s
+seis s e i s
+senove s e n o v e
+sento s e n t o
+sepha s e p h a
+sete s e t e
+sia s i a
+so s o
+solemnemente s o l e m n e m e n t e
+solenemente s o l e n e m e n t e
+solteira s o l t e i r a
+solteiros s o l t e i r o s
+sus s u s
+sé s é
+sús s ú s
+ta t a
+tado t a d o
+te t e
+tinho t i n h o
+tisei t i s e i
+to t o
+tonio t o n i o
+torse t o r s e
+tres t r e s
+trese t r e s e
+trez t r e z
+treze t r e z e
+trinta t r i n t a
+tro t r o
+turais t u r a i s
+tural t u r a l
+tyro t y r o
+um u m
+us u s
+va v a
+valho v a l h o
+veira v e i r a
+ves v e s
+vigario v i g a r i o
+vin v i n
+vino v i n o
+vinte v i n t e
+xandre x a n d r e
+zêu z ê u
+çalves ç a l v e s
+ço ç o
+ção ç ã o
